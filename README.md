@@ -2,7 +2,7 @@ Hello!👋
 
 - 👩‍💻 My name is Cynthia Brito-Mena, and I am a full stack software engineer. 
 - 🏢 Before transitioning into tech, I worked in the non-profit space for 6 years. I have experience developing and managing volunteer programs, as well as working with school-aged youth, and managing teams. 
-- 📚 I’m currently learning Data Structures & Algorithms, while also exploring NoSQL databases through a personal project.  
+- 📚 I’m currently learning Data Structures & Algorithms, while also exploring TailwindCSS in my portfolio project.   
 - 📫 How to reach me: Message me at cynthia.britom@gmail.com or https://www.linkedin.com/in/cynthiabritomena/. 
 
 
