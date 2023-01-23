@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/cb2866/cb2866/blob/output/github-contribution-grid-snake.svg)
 <h1 align="center">Hi 👋, I'm Cynthia</h1>
 <h3 align="center">A frontend developer from the Bronx, New York</h3>
 
