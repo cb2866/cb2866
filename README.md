@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia</h1>
 <h3 align="center">A frontend developer from the Bronx, New York</h3>
 
-- 🔭 I’m currently working on **building a project using Next.js and TailwindCSS**
+- 🔭 I’m currently working on **building a project using TailwindCSS**
 
 - 🌱 I’m currently learning **Next.js, data structures, and algorithms**
 
