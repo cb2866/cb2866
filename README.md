@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **building a project using TailwindCSS**
 
-- 🌱 I’m currently learning **Next.js, data structures, and algorithms**
+- 🌱 I’m currently learning **data structures, algorithms, and data visualization**
 
 - 👨‍💻 All of my projects are available at [https://cynthia-brito-mena.netlify.app/](https://cynthia-brito-mena.netlify.app/)
 
