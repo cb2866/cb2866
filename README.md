@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia</h1>
 <h3 align="center">A frontend developer from the Bronx, New York</h3>
 
-- 🔭 I’m currently working on **building a project using TailwindCSS**
+- 🔭 I’m currently working my way through **Frontend Mentor challenges**
 
 - 🌱 I’m currently learning **data structures, algorithms, and data visualization**
 
