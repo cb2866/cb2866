@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cynthia</h1>
-<h3 align="center">A frontend developer from the Bronx, New York</h3>
+<h3 align="center">A Software Engineer (front-end focused) from the Bronx, New York</h3>
 
 - 🔭 I’m currently working my way through **Frontend Mentor challenges**
 
