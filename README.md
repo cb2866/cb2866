@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cynthia</h1>
 <h3 align="center">A Software Engineer (front-end focused) from the Bronx, New York</h3>
 
-- 🔭 I’m currently working my way through **Frontend Mentor challenges**
+- 🔭 I’m currently working on a project called MedExperts. Check out the repository in my pinned projects below. 
 
-- 🌱 I’m currently learning **data structures, algorithms, and data visualization**
+- 🌱 I’m currently studying **data structures, algorithms, and data visualization**
 
 - 👨‍💻 All of my projects are available at [https://cynthia-brito-mena.netlify.app/](https://cynthia-brito-mena.netlify.app/)
 
