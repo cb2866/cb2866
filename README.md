@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cynthia!</h1>
-<h3 align="center">A Software Engineer (front-end focused) from the Bronx, New York</h3>
+<h3 align="center">A Software Engineer from the Bronx, New York</h3>
 
 - 🔭 I’m currently working on a project called MedExperts, a Q&A platform for medical professionals in the field of pulmonary medicine. Check out the repository in my pinned projects below. 
 
