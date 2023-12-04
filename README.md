@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cynthia!</h1>
 <h3 align="center">A Tech Enthusiast from The Bronx, New York</h3>
 
-- 🔭 Although relatively new to coding, I come from a non-profit background and am passionate about leveraging technology for good! 
+- 🔭 Although relatively new to coding, I come from a non-profit background and am passionate about leveraging technology for good! After taking a brief break I am brushing up on my coding skills by working my way through Advent of Code and CodeWars!  
 
 - 👨‍💻 All of my projects are available at [https://cynthia-brito-mena.netlify.app/](https://cynthia-brito-mena.netlify.app/)
 
